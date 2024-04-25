@@ -4,6 +4,8 @@
 * identified project using .micropico file
 * use all commands at the bottom
 
+* Set wifi network secrets in secrets.py
+
 ### Reload module
 
 ### Configuration json file
