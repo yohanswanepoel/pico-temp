@@ -1,0 +1,6 @@
+{
+    "distance_min": 800,
+    "distance_max": 1200,
+    "pause_time": 10,
+    "dog_wait_time": 3
+}
